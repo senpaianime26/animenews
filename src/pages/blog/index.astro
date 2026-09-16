@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog'))
+  .filter((p) => !p.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout title="Blog" description="All anime news, reviews and articles">
+  <section class="hero" style="padding-bottom: 2rem;">
+    <div class="container">
+      <h1>All Posts</h1>
+      <p>News, reviews, lists, and deep dives into the anime universe.</p>
+    </div>
+  </section>
+
+  <section class="container">
+    <div class="posts-grid">
+      {posts.map((post) => (
+        <PostCard post={post} />
+      ))}
+    </div>
+  </section>
+</BaseLayout>

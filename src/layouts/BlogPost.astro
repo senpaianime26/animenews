@@ -1,0 +1,41 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import type { CollectionEntry } from 'astro:content';
+
+type Props = CollectionEntry<'blog'>['data'] & { slug: string };
+
+const { title, description, pubDate, updatedDate, heroImage, tags, category } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <article class="container">
+    <div class="post-header">
+      <a href="/blog" class="back-link">← Back to all posts</a>
+      <h1>{title}</h1>
+      <div class="meta">
+        <time datetime={pubDate.toISOString()}>
+          {pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+        </time>
+        {updatedDate && (
+          <span> · Updated {updatedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+        )}
+      </div>
+      <div class="post-card-meta" style="justify-content: center;">
+        {category && <span class="tag category">{category}</span>}
+        {tags.map((tag) => (
+          <span class="tag">{tag}</span>
+        ))}
+      </div>
+    </div>
+
+    {heroImage && (
+      <div class="post-hero">
+        <img src={heroImage} alt={title} />
+      </div>
+    )}
+
+    <div class="prose">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>
