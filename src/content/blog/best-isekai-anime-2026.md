@@ -13,15 +13,11 @@ Here are the **best isekai anime to watch in 2026**.
 
 ## 1. Re:Zero − Starting Life in Another World
 
-![Dark fantasy atmosphere](https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&q=80)
-
 Still the king of dark, psychological isekai. The combination of time-loop suffering, excellent character writing, and high stakes makes *Re:Zero* feel as fresh as ever. If you haven’t finished the later seasons, 2026 is the perfect time to catch up.
 
 **Why it ranks high:** Emotional depth + actual consequences.
 
 ## 2. That Time I Got Reincarnated as a Slime
-
-![Peaceful fantasy kingdom](https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80)
 
 The ultimate power fantasy done right. Rimuru’s journey from weak slime to nation-building demon lord is endlessly satisfying. The world-building is rich, the side characters are lovable, and the politics actually make sense.
 
@@ -29,15 +25,11 @@ Perfect if you want something fun, wholesome, and still exciting.
 
 ## 3. Mushoku Tensei: Jobless Reincarnation
 
-![Epic fantasy journey](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=80)
-
 Often called the “father of modern isekai,” *Mushoku Tensei* continues to set the standard for character growth and long-term storytelling. The animation quality remains top-tier, and the character development is unmatched in the genre.
 
 **Note:** Best enjoyed by mature viewers.
 
 ## 4. The Eminence in Shadow
-
-![Mysterious shadow aesthetic](https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1200&q=80)
 
 For pure entertainment and comedy. Watching Cid completely misunderstand the world while accidentally building an elite organization is peak isekai fun. The action is stylish, the humor lands, and it never takes itself too seriously.
 
@@ -45,27 +37,19 @@ Ideal when you want something light and ridiculous.
 
 ## 5. Solo Leveling
 
-![Dark action atmosphere](https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=1200&q=80)
-
 While technically more of a hunter/gate story, *Solo Leveling* scratched the same itch as classic isekai with its rapid power progression and cool factor. The animation elevates the source material massively, making it one of the most rewatchable action series of recent years.
 
 ## 6. Overlord
 
-![Dark throne / empire vibe](https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&q=80)
-
 Ainz Ooal Gown remains one of the most interesting “villain protagonists” in anime. The mix of strategy, dark comedy, and world domination is still incredibly engaging. Later seasons continue to expand the world in satisfying ways.
 
 ## 7. Ascendance of a Bookworm
-
-![Cozy medieval library feel](https://images.unsplash.com/photo-1481627834876-b7833e1d7d51?w=1200&q=80)
 
 A refreshing change of pace. Instead of overpowered battles, this series focuses on a girl who just wants to make books in a medieval world. The attention to detail regarding printing, economics, and daily life makes it uniquely addictive.
 
 Perfect for viewers tired of constant power scaling.
 
 ## 8. Konosuba: God’s Blessing on This Wonderful World!
-
-![Bright and chaotic fantasy](https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=1200&q=80)
 
 The gold standard of isekai comedy. Kazuma and the party’s chaotic adventures never get old. It’s still the best palate cleanser when the darker isekai start feeling too heavy.
 
